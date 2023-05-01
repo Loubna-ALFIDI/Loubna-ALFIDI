@@ -15,6 +15,4 @@ Skills: C/ C++ / JAVA / PHP / Shell
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Loubna-ALFIDI&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Loubna-ALFIDI)  
-
 ![Profile views](https://gpvc.arturio.dev/Loubna-ALFIDI)  

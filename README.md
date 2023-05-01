@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/Loubna-ALFIDI)  
-### Hi there 👋, my name is Loubna
+## Hi there 👋, my name is Loubna
 #### I am an ALX Software Engineering Student.
 ![I am an ALX Software Engineering Student.](https://media.discordapp.net/attachments/1077606210276180059/1102575678613901402/test_AdobeExpress.gif?width=666&height=375)
 

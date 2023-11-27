@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Loubna
+## Hi there 👋, my name is Louby
 
 ![Profile views](https://gpvc.arturio.dev/Loubna-ALFIDI)  
 

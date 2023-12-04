@@ -3,7 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/Loubna-ALFIDI)  
 
 #### I am an ALX Software Engineering Student.
-![I am an ALX Software Engineering Student.](https://media.discordapp.net/attachments/1077606210276180059/1102575678613901402/test_AdobeExpress.gif?width=666&height=375)
+![I am an ALX Software Engineering Student.](![image](https://github.com/Loubna-ALFIDI/Loubna-ALFIDI/assets/91200201/379c6758-5409-4d6c-b5e5-4c8e62c05cef)
+)
 
 
 Skills: C / C++ / JAVA / PHP / SHELL

@@ -3,7 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/Loubna-ALFIDI)  
 
 #### I am an ALX Software Engineering Student.
-![I am an ALX Software Engineering Student.]
 <img src="https://imgur.com/syj2qET">
 
 Skills: C / C++ / JAVA / PHP / SHELL

@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Louby
+## Hi there 👋, my name is Loubna
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubna-ALFIDI&label=Profile%20views&color=0e75b6&style=flat" alt="Loubna-ALFIDI" /> </p>
 

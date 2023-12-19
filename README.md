@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Loubna
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubna-ALFIDI&label=Profile%20views&color=0e75b6&style=flat" alt="Loubna-ALFIDI" /> </p>
 [![committers.top badge](https://user-badge.committers.top/morocco/Loubna-ALFIDI.svg)](https://user-badge.committers.top/morocco/Loubna-ALFIDI)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubna-ALFIDI&label=Profile%20views&color=0e75b6&style=flat" alt="Loubna-ALFIDI" /> </p>
+
 
 #### I am an ALX Software Engineering Student.
 ![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBzMmV1czBvMTJsbnltMWNoNXhhajh3ZGU0Z2xkeWZ3a2dzNmQwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8XbNUFZUsg0DaouGJ/giphy.gif)

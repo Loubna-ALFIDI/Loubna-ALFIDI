@@ -19,3 +19,8 @@ Skills: C / C++ / JAVA / PHP / SHELL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Loubna-ALFIDI&show_icons=true)  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loubna-ALFIDI/Loubna-ALFIDI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loubna-ALFIDI/Loubna-ALFIDI/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Loubna-ALFIDI/Loubna-ALFIDI/output/github-contribution-grid-snake.svg">
+</picture>

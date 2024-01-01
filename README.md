@@ -6,7 +6,7 @@
 #### I am an ALX Software Engineering Student.
 ![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBzMmV1czBvMTJsbnltMWNoNXhhajh3ZGU0Z2xkeWZ3a2dzNmQwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8XbNUFZUsg0DaouGJ/giphy.gif)
 
-Skills: C / C++ / JAVA / PHP / SHELL
+Skills: C / C++ / JAVA / PHP / SHELL / JAVASCRIPT
 
 
 

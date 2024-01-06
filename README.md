@@ -4,8 +4,9 @@
 
 
 #### I am an ALX Software Engineering Student.
-
-![gif](https://github.com/Loubna-ALFIDI/Loubna-ALFIDI/assets/91200201/9c34befa-2652-4eb9-83a6-f09a5513c157)
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvMm9saTc1cW1jYXI5amVzeTJwYnF3ZzhnZW9oN2x3c3pubGRxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
+</p>
 
 Skills: C / C++ / JAVA / PHP / SHELL / JAVASCRIPT
 

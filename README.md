@@ -4,7 +4,7 @@
 
 
 #### I am an ALX Software Engineering Student.
-![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBzMmV1czBvMTJsbnltMWNoNXhhajh3ZGU0Z2xkeWZ3a2dzNmQwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8XbNUFZUsg0DaouGJ/giphy.gif)
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 
 Skills: C / C++ / JAVA / PHP / SHELL / JAVASCRIPT
 

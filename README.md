@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Loubna-ALFIDI&label=Profile%20views&color=0e75b6&style=flat" alt="Loubna-ALFIDI" /> </p>
 
 
-#### I am an ALX Software Engineering Student.
+#### I'm a 1337 Student.
 <p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVvMm9saTc1cW1jYXI5amVzeTJwYnF3ZzhnZW9oN2x3c3pubGRxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif">
 </p>
